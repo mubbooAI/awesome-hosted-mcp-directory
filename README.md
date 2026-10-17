@@ -207,6 +207,11 @@ _No entries yet_
 - **Offers:** Scientific paper search with structured experimental data extracted from full-text studies
 - **Access:** Server available at `https://mcp.bgpt.pro/sse` (SSE) or `https://mcp.bgpt.pro/mcp` (Streamable HTTP). Also available via `npx bgpt-mcp`
 
+#### [Ticketglide Ticketing Agent](https://ticketglide.com/)
+
+- **Offers:** Read-only search and retrieval of destination and attraction guides, plus website search links for tours and day trips. Content in English, French, German and Spanish; no live inventory, bookings or payments.
+- **Access:** Free public Streamable HTTP endpoint at `https://ticketglide.com/api/mcp`; no account or API key required. [Documentation](https://ticketglide.com/mcp).
+
 ### Communication & Collaboration
 
 #### [Asana MCP](https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server)
