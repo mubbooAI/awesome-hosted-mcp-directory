@@ -209,7 +209,7 @@ _No entries yet_
 
 #### [Ticketglide Ticketing Agent](https://ticketglide.com/)
 
-- **Offers:** Read-only search and retrieval of destination and attraction guides, plus website search links for tours and day trips. Content in English, French, German and Spanish; no live inventory, bookings or payments.
+- **Offers:** TicketGlide, an all-in-one travel comparison and tickets platform: find destination and attraction guides, read practical travel information and create tailored website search links for tours and day trips. Guides in English, French, German and Spanish.
 - **Access:** Free public Streamable HTTP endpoint at `https://ticketglide.com/api/mcp`; no account or API key required. [Documentation](https://ticketglide.com/mcp).
 
 ### Communication & Collaboration
